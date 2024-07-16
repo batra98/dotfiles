@@ -3,6 +3,7 @@ breezestyleconfig.desktop
 bssh.desktop
 bvnc.desktop
 chromium.desktop
+com.github.hluk.copyq.desktop
 com.github.maliit.keyboard.desktop
 cups.desktop
 eos-apps-info.desktop
@@ -95,6 +96,8 @@ kwincompositing.desktop
 lstopo.desktop
 mimeinfo.cache
 mpv.desktop
+nnn.desktop
+nvim.desktop
 okularApplication_comicbook.desktop
 okularApplication_djvu.desktop
 okularApplication_dvi.desktop
